@@ -1,9 +1,7 @@
  ### Hi there, I'm Pratyush 👋
 
-## I'm just a college Freshser :)
 
 - 🌱 I’m currently learning everything 
-- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar 
 
 
